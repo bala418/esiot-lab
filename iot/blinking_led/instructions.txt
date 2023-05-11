@@ -1,0 +1,3 @@
+The shorter one, and it should be connected to the ground. The longer part of the LED is the positive lead, and it should be connected to the positive voltage source.
+The bent part of the LED is connected to the cathode of the diode, which is the negative side. The longer part of the LED is connected to the anode of the diode, which is the positive side.
+
